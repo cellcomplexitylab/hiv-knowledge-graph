@@ -1,0 +1,9 @@
+kg-genes.json
+docker/kgim_available
+__pycache__
+Danio_rerio.gene_info.gz
+Drosophila_melanogaster.gene_info.gz
+Homo_sapiens.gene_info.gz
+Mus_musculus.gene_info.gz
+.vimtags
+*.pyc
